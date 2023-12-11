@@ -87,6 +87,10 @@
       <img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" width="48" height="48" alt="webpack" />
       <br /><strong>Webpack</strong>
     </td>
+      <td align="center" height="108" width="108">
+      <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="48" height="48" alt="npm" />
+      <br /><strong>npm</strong>
+    </td>
   </tr>
 </table>
 
