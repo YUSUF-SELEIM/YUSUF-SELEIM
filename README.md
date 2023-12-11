@@ -38,7 +38,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.svg" width="48" height="48"
-        alt="Tailwind" />
+        alt="Flowbite" />
       <br /><strong>Flowbite</strong>
     </td>
   </tr>
@@ -63,14 +63,11 @@
         width="48" height="48" alt="mysql" />
       <br /><strong>mySql</strong>
     </td>
-
     <td align="center" height="108" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48"
         alt="Firebase" />
       <br /><strong>Firebase</strong>
     </td>
-
-
   </tr>
   <tr>
     <td align="center" height="108" width="108">
