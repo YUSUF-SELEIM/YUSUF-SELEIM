@@ -23,14 +23,16 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </div>
-
+</br>
+  
 # Technologies & Tools
 
 <div align="center">
  <a href="https://skillicons.dev" target="blank">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,flutter,tailwind,nodejs,expressjs,mongodb,prisma,graphql,apollo,webpack,vite,babel,azure,docker,vercel,netlify,linux,git&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,flutter,tailwind,nodejs,expressjs,mongodb,prisma,graphql,apollo,webpack,vite,babel,azure,docker,vercel,netlify,linux,git,solidity&perline=3" />
   </a>
 </div>
+
 
 # Stats
 <a href="https://github.com/YUSUF-SELEIM/YUSUF-SELEIM">
