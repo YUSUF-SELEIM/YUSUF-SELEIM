@@ -5,7 +5,7 @@
   Right now my mind is focused on learning everything related to Web Development.
   </br>
   </br>
-  <a href="https://yusuf-abdelfattah.vercel.app/" target="_blank">
+  <a href="https://yusufabdelfattah.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="" />
  </a>
 </div>
